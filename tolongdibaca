@@ -1,0 +1,4 @@
+jadi biar bisa aplikasinya jalan di device kalian
+di terminal kalian run pip install -r requirements.txt
+terus buka yang inifinal.py
+jalanin aja

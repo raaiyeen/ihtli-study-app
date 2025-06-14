@@ -1,0 +1,6 @@
+customtkinter
+requests
+PyMuPDF
+python-pptx
+Pillow
+pytesseract
